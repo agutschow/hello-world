@@ -1,2 +1,2 @@
 # hello-world
-hello-world sample
+Updating this repository for the tutorial. 

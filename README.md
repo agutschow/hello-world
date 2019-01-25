@@ -1,3 +1,3 @@
 # hello-world
-Updating this repository for the tutorial. 
-<B>Hello World</B>
+<B>Hello World</B></br>
+<P>This is my first repository that I am using from GIT to Eclipse.</P>
